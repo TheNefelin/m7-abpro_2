@@ -6,3 +6,7 @@
 npm install pg
 npm install yargs
 ```
+
+* Fernando Perez
+* Bryan Jeldes
+* Francisco Carmona
