@@ -8,7 +8,7 @@ const args = hideBin(process.argv);
 
 const conexion = {
     user: "postgres",
-    password: "!nfra48x",
+    password: "123456",
     database: "ejercicios",
     host: "localhost",
     max: 20, 
